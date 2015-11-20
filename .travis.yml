@@ -8,3 +8,8 @@ script:
   - tox
 env:
   - TOXENV=py35
+
+addons:
+  apt:
+    packages:
+      - libenchant-dev

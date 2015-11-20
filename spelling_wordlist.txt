@@ -1,2 +1,7 @@
 smartmob
 rfc
+procfile
+heroku
+untrusted
+whitespace
+multiline

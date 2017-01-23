@@ -133,4 +133,4 @@ Security considerations
 It is commonplace to store sensitive information, such as credentials to
 third-party services or attached resources in ``.env`` files.  Care should be
 taken when handling these values.  For example, you may wish to place a rule on
-your source control repositories to accidentally commit the credentials.
+your source control repositories to not accidentally commit the credentials.
